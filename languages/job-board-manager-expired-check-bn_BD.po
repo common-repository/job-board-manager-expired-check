@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Job Board Manager - Expired check\n"
+"POT-Creation-Date: 2017-04-03 18:56+0600\n"
+"PO-Revision-Date: 2017-04-03 18:56+0600\n"
+"Last-Translator: \n"
+"Language-Team: PickPlugins <support@pickplugins.com>\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: job-board-manager-expired-check.php:131
+msgid "Experied jobs post status"
+msgstr ""
+
+#: job-board-manager-expired-check.php:132
+msgid "Post status for experied jobs."
+msgstr ""
+
+#: job-board-manager-expired-check.php:135
+msgid "Publish"
+msgstr ""
+
+#: job-board-manager-expired-check.php:135
+msgid "Draft"
+msgstr ""
+
+#: job-board-manager-expired-check.php:135
+msgid "Pending"
+msgstr ""
+
+#: job-board-manager-expired-check.php:135
+msgid "Private"
+msgstr ""
+
+#: job-board-manager-expired-check.php:135
+msgid "Trash"
+msgstr ""
+
+#: job-board-manager-expired-check.php:140
+msgid "Experied check Recurrance"
+msgstr ""
+
+#: job-board-manager-expired-check.php:144
+msgid "Hourly"
+msgstr "ঘন্টা"
+
+#: job-board-manager-expired-check.php:144
+msgid "Twicedaily"
+msgstr "দিনে দুইবার"
+
+#: job-board-manager-expired-check.php:144
+msgid "Daily"
+msgstr "প্রতিদিন"
